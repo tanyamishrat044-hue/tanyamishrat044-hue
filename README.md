@@ -38,28 +38,35 @@ I'm a Computer Science student learning web development by building practical pr
 - **Programming:** Java
 - **Tools:** Git, GitHub, VS Code
 
+#
 ## 🚀 My Projects
 
+### 🌍 [Travel Sphere](https://github.com/tanyamishrat044-hue/Travel-Sphere)
+
+A travel website focused on helping users explore destinations and plan trips.
+
+- Destination browsing and travel information
+- Trip-planning form
+- Website styling and UI improvements in progress
+
+**Tech Stack:** HTML, CSS  
+**Status:** 🚧 In Progress
+
 ### 🌐 Personal Portfolio Website
-A personal website showcasing my introduction, skills, and projects.
 
-**Tech Stack:** HTML, CSS, JavaScript
+A personal website to showcase my introduction, skills, and development projects.
 
-### 🌍 Travel Sphere
-A travel-planning website for exploring destinations and planning trips.
-
-**Current Focus:** Improving website styling, UI, and functionality.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-**Status:** In Progress
+**Tech Stack:** HTML, CSS, JavaScript  
+**Status:** Project completed; GitHub upload coming soon.
 
 ### 🛒 E-commerce Website
+
 An upcoming project to practise building an online shopping experience.
 
-**Planned Start/Completion:** By December 2026
+**Planned Focus:** Product listings, product details, and shopping cart.
 
-**Status:** Planned
+**Target:** December 2026  
+**Status:** 📌 Planned
 
 ## 🎯 My Goals
 
