@@ -82,3 +82,15 @@ An upcoming project to practise building an online shopping experience.
 ---
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanyamishrat044-hue&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyamishrat044-hue&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*Always learning, building, and improving.* 🚀
