@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Tanya Mishra - Aspiring Full-Stack Developer">
+</p>
 # Hi, I'm Tanya Mishra 👋
 
 ### Aspiring Full-Stack Developer | Frontend Development
